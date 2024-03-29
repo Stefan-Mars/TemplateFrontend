@@ -8,17 +8,14 @@ Kloon de repository met het volgende commando in de command prompt:
 
     git clone https://github.com/Stefan-Mars/TemplateFrontend.git
 
-## Project Setup
+### Project Setup
 
 ```sh
+cd TemplateFrontend
 npm install
-```
-
-
-
-```sh
 npm run dev
 ```
+
 
 
 
