@@ -1,14 +1,12 @@
-# TemplateFrontend
+# Template voor API in Laravel
 
-This template should help get you started developing with Vue 3 in Vite.
+## Installatie
 
-## Recommended IDE Setup
+### Kloon de repository
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Kloon de repository met het volgende commando in de command prompt:
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+    git clone https://github.com/Stefan-Mars/TemplateFrontend.git
 
 ## Project Setup
 
@@ -16,14 +14,11 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+
