@@ -1,4 +1,4 @@
-# Template voor API in Laravel
+# Vue template voor een CRUD applicatie
 
 ## Installatie
 
